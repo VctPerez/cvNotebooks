@@ -1,0 +1,8 @@
+
+/etc
+/Incldude
+/Lib
+/Scripts
+/share
+
+*.cfg
