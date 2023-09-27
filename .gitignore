@@ -1,8 +1,11 @@
 
+# CARPETAS
 /etc
 /Incldude
 /Lib
 /Scripts
 /share
+/.ipynb_checkpoints
 
+# ARCHIVOS
 *.cfg
