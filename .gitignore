@@ -5,7 +5,6 @@
 /Lib
 /Scripts
 /share
-/.ipynb_checkpoints
-
+**/.ipynb_checkpoints
 # ARCHIVOS
 *.cfg
